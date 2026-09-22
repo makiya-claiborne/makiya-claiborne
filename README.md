@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @makiya-claiborne
-- 👀 I’m a recent Computer Science graduate from Towson University
+- 👀 I’m a graduate student at Johns Hopkins University
 - 🌱 Software Engineer
 - 💞️ I’m looking to showcase my personal coding projects
 - 📫 You can reach me at makiya.claiborne@gmail.com
